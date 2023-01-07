@@ -1,0 +1,3 @@
+#1주차 발표자료
+[k8s - 컨테이너와 오케스트스레이션 시스템](https://www.notion.so/nontrust/k8s-3488f15f512247029d01e55713ad6b9a)
+[k8s - 쿠버네티스 아키텍처](https://www.notion.so/nontrust/k8s-d1bc91e501994461b2ec250def62e787)

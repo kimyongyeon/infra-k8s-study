@@ -5,3 +5,6 @@
 
 #2주차 발표자료
 [k8s - 쿠버네티스 아키텍처 (2)](https://www.notion.so/nontrust/k8s-2-8431c343db394d3db29a4c1613bae81c)    
+
+#3주차 발표자료
+[k8s - 쿠버네티스 아키텍처 (3)](https://www.notion.so/nontrust/k8s-3-a0e314c417d1482e8fb3f7e6a1d448d7)
